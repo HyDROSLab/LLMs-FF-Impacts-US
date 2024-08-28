@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/848545347.svg)](https://zenodo.org/doi/10.5281/zenodo.13386241)
+
 # Large Language Model-Based Classification of Flash Flood Impacts Across the United States  
 by Jorge A. Duarte {1}, Jonathan J. Gourley {2,4}, Humberto J. Vergara {3}, Pierre E. Kirstetter {4,5}, Charles D. Nicholson {6}, Maciej Adamiak {7,8}
 ```
